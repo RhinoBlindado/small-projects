@@ -1,0 +1,18 @@
+8
+1 m Valentino Lugli 16 11 1995
+2 m Glauco Lugli 8 10 1961
+3 f Elisa Ventresca 11 12 1963
+4 m Alvaro Lugli 00 00 1965
+5 m Carlo Lugli 00 00 1929
+6 m Carlo Lugli 00 00 1965
+7 f Veronica Lugli 00 00 1991
+8 m Sperindio Lugli 00 00 1885
+7
+6 FTHR 7
+5 FTHR 6
+8 FTHR 5
+8 FHTR 4
+4 FHTR 2
+3 FTHR 1
+2 FTHR 1
+

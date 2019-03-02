@@ -1,0 +1,10 @@
+0,0 = ego
+0,1 = padre,madre
+0,2 = abuelo,abuela
+1,0 = hijo,hija
+2,0 = nieto,nieta
+1,1 = hermano,hermana
+2,1 = tio,tia
+1,2 = sobrino,sobrina
+2,2 = primo,prima
+
