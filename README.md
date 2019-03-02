@@ -1,2 +1,5 @@
-# A place where I put the small things I do to entertain myself
-Small programming proyects
+# Small Projects
+_A list of small programming projects that don't need their own repository._
+
+## Projects:
+### Kinship  
