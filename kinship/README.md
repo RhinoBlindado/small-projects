@@ -37,7 +37,7 @@ _I don't personally recommend this right now, it is very much **not** user frien
     `fN_i`: Fist name of the person, doesn't accept names with spaces.    
     `lN_i`: Last name, ditto.   
     `DD_i,MM_i,YYYY_i`: Birth date.   
-    `M`: Number of relationships
+    `M`: Number of relationships  
     `ID_1_i`: Ascendant, i.e. Father/Mother of `ID_2_i`.    
     `FTHR/MTHR`: String to determine if `ID_1_i` is father or mother.   
     `ID_2_i`: Descendant.   
