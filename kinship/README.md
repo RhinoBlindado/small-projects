@@ -33,7 +33,7 @@ _I don't personally recommend this right now, it is very much **not** user frien
       ```  
     `N`: Number of family members to evaluate.    
     `ID_i`: Integer to identify the person, it can be any integer, without order but it cannot repeat.   
-    `S_i`: Sex of person
+    `S_i`: Sex of person  
     `fN_i`: Fist name of the person, doesn't accept names with spaces.    
     `lN_i`: Last name, ditto.   
     `DD_i,MM_i,YYYY_i`: Birth date.   
