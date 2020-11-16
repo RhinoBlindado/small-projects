@@ -39,17 +39,17 @@ def nearestColor(hexVal,hearts):
 
 # Main Code
 
-imgName = '1.png'
-# img = input()
+#imgName = '1.png'
+imgName = input()
 
 #       Red,                    Orange
-hearts={0xff0000 : "\U00002764",0xf88606 : "\U0001F9E1" ,
+hearts={0xff0000 : "\U00002764",0xFF8000 : "\U0001F9E1" ,
 #       Yellow,                 Green,
-        0xfbc02d : "\U0001F49B",0x00ff00 : "\U0001F49A" ,
+        0xFFFF00 : "\U0001F49B",0x00ff00 : "\U0001F49A" ,
 #       Blue,                   Purple,
-        0x0000ff : "\U0001F499",0x8321a5 : "\U0001F49C",
+        0x0000ff : "\U0001F499",0xFF00FF : "\U0001F49C",
 #       Brown,                  Black,
-        0x835f41 : "\U0001F90E",0x000000 : "\U0001F5A4",
+        0x804000 : "\U0001F90E",0x000000 : "\U0001F5A4",
 #       White
         0xffffff : "\U0001F90D"}
 
@@ -60,5 +60,5 @@ for i in range(imgArray.shape[0]):
         hexVal = '0x%02x%02x%02x' % (imgArray[i][j][0], imgArray[i][j][1], imgArray[i][j][2])
         out = nearestColor(hexVal,hearts)
         print(hearts[out], end="")
-    print("\n")
+    print("")
 
